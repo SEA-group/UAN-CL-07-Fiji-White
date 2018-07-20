@@ -1,1 +1,38 @@
-<BGT023_21in_3tube_TR_Mk_IV_R_dead_lod3.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>mesh_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>mesh_dead</node><geometry><vertices>mesh_dead_lod3Shape.vertices</vertices><primitive>mesh_dead_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/bf2052287a491f9c04c1ae89202eb084.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.067868 -0.000502 -0.224845</min><max>0.128205 0.083927 0.268850</max></boundingBox></BGT023_21in_3tube_TR_Mk_IV_R_dead_lod3.visual>
+<BGT023_21in_3tube_TR_Mk_IV_R_dead_lod3.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	mesh_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	mesh_dead	</node>
+		<geometry>
+			<vertices>	mesh_dead_lod3Shape.vertices	</vertices>
+			<primitive>	mesh_dead_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGT023_21in_3tube_TR_Mk_IV_R_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.067868 -0.000502 -0.224845	</min>
+		<max>	0.128205 0.083927 0.268850	</max>
+	</boundingBox>
+</BGT023_21in_3tube_TR_Mk_IV_R_dead_lod3.visual>

@@ -1,1 +1,125 @@
-<BAS006_Roc_Seaplane_lod1.visual><boundingBox><min>-0.463069 -0.084104 -0.466614</min><max>0.463891 0.258453 0.286951</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>hull</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>propeller_mod</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>propeller_disk</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.122532 0.226977 1.000000</row3></transform><node><identifier>disk</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>disk_1</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><node><identifier>HP_gunFireBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.193719 -0.188520 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>hull</node><geometry><vertices>hull_lodShape1.vertices</vertices><primitive>hull_lodShape1.indices</primitive><primitiveGroup>0<material><identifier>PBS_Plane</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/699aaa48d83925bf3779469d73734ece.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>propeller_mod</node><geometry><vertices>propeller_mod_lodShape1.vertices</vertices><primitive>propeller_mod_lodShape1.indices</primitive><primitiveGroup>0<material><identifier>PBS_Plane</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/699aaa48d83925bf3779469d73734ece.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>disk</node><geometry><vertices>disk_lod1Shape.vertices</vertices><primitive>disk_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>PROPELLERMAT_propeller</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/b84899e84787b85ac52354a792fe2d18.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>disk_1</node><geometry><vertices>disk_1_lodShape1.vertices</vertices><primitive>disk_1_lodShape1.indices</primitive><primitiveGroup>0<material><identifier>PBS_Plane</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/699aaa48d83925bf3779469d73734ece.mfm</mfm></material></primitiveGroup></geometry></renderSet></BAS006_Roc_Seaplane_lod1.visual>
+<BAS006_Roc_Seaplane_lod1.visual>
+	<boundingBox>
+		<min>	-0.463069 -0.084104 -0.466614	</min>
+		<max>	0.463891 0.258453 0.286951	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	hull	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	propeller_mod	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	propeller_disk	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.122532 0.226977 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	disk	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	disk_1	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+			</node>
+			<node>
+				<identifier>	HP_gunFireBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.193719 -0.188520 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	hull	</node>
+		<geometry>
+			<vertices>	hull_lodShape1.vertices	</vertices>
+			<primitive>	hull_lodShape1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAS006_Roc_Seaplane.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	propeller_mod	</node>
+		<geometry>
+			<vertices>	propeller_mod_lodShape1.vertices	</vertices>
+			<primitive>	propeller_mod_lodShape1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAS006_Roc_Seaplane.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	disk	</node>
+		<geometry>
+			<vertices>	disk_lod1Shape.vertices	</vertices>
+			<primitive>	disk_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PROPELLERMAT_propeller	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/German_Disk_3Blade_02_alpha.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	disk_1	</node>
+		<geometry>
+			<vertices>	disk_1_lodShape1.vertices	</vertices>
+			<primitive>	disk_1_lodShape1.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	PBS_Plane	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAS006_Roc_Seaplane.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BAS006_Roc_Seaplane_lod1.visual>

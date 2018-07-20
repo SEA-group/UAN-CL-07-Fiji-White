@@ -1,0 +1,20 @@
+<BSC014_Fiji_1942_Glass.mfm>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/glass_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/glass_mg.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/default_n.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/default_ao.tga	</Texture>
+	</property>
+</BSC014_Fiji_1942_Glass.mfm>

@@ -1,1 +1,38 @@
-<BGM001_6in50_MK_XXIII_dead_lod3.visual><boundingBox><min>-0.242734 0.000000 -0.335004</min><max>0.242734 0.219390 0.455419</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>gun_Rotate_Y_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>gun_Rotate_Y_dead</node><geometry><vertices>gun_Rotate_Y_dead_lod3Shape.vertices</vertices><primitive>gun_Rotate_Y_dead_lod3Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/5ec408bca33ef51113e8005526c9d3aa.mfm</mfm></material></primitiveGroup></geometry></renderSet></BGM001_6in50_MK_XXIII_dead_lod3.visual>
+<BGM001_6in50_MK_XXIII_dead_lod3.visual>
+	<boundingBox>
+		<min>	-0.242734 0.000000 -0.335004	</min>
+		<max>	0.242734 0.219390 0.455419	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	gun_Rotate_Y_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	gun_Rotate_Y_dead	</node>
+		<geometry>
+			<vertices>	gun_Rotate_Y_dead_lod3Shape.vertices	</vertices>
+			<primitive>	gun_Rotate_Y_dead_lod3Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGM001_6in50_MK_XXIII_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BGM001_6in50_MK_XXIII_dead_lod3.visual>

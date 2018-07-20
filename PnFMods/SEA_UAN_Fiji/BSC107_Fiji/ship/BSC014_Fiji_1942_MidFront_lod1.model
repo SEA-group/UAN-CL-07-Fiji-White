@@ -1,1 +1,8 @@
-<BSC014_Fiji_1942_MidFront_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942_MidFront_lod2</parent><extent>25.0000</extent><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942_MidFront_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BSC014_Fiji_1942_MidFront_lod1.model>
+<BSC014_Fiji_1942_MidFront_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942_MidFront_lod2	</parent>
+	<extent>	25.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942_MidFront_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BSC014_Fiji_1942_MidFront_lod1.model>

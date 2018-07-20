@@ -1,1 +1,9 @@
-<BGA025_40mm_Bofors_Twin_lod1.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA025_40mm_Bofors_Twin_lod2</parent><extent>5.0000</extent><nodefullVisual>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA025_40mm_Bofors_Twin_lod1</nodefullVisual><materialNames /><castsShadow>false</castsShadow><metaData>Wargaming | Lesta Studio</metaData></BGA025_40mm_Bofors_Twin_lod1.model>
+<BGA025_40mm_Bofors_Twin_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA025_40mm_Bofors_Twin_lod2	</parent>
+	<extent>	5.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA025_40mm_Bofors_Twin_lod1	</nodefullVisual>
+	<materialNames />
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA025_40mm_Bofors_Twin_lod1.model>

@@ -1,1 +1,9 @@
-<BGM001_6in50_MK_XXIII.model><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGM001_6in50_MK_XXIII_lod1</parent><extent>3.0000</extent><materialNames /><castsShadow>true</castsShadow><nodefullVisual>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGM001_6in50_MK_XXIII</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BGM001_6in50_MK_XXIII.model>
+<BGM001_6in50_MK_XXIII.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGM001_6in50_MK_XXIII_lod1	</parent>
+	<extent>	3.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGM001_6in50_MK_XXIII	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGM001_6in50_MK_XXIII.model>

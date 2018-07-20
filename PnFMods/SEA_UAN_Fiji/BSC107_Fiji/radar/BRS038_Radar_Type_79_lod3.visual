@@ -1,1 +1,120 @@
-<BRS038_Radar_Type_79_lod3.visual><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Root</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y1</identifier><transform><row0>0.000000 1.000000 0.000000 0.000000</row0><row1>-1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.145943 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y2</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.022689 0.000000 0.000000 1.000000</row3></transform><node><identifier>Rotate_Y3</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.026449 0.000000 0.000000 1.000000</row3></transform><node><identifier>MP_BM459_Type_243_Outfit_ASC</identifier><transform><row0>0.000000 -1.000000 0.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.252183 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>Rotate_Y3_BlendBone</identifier><transform><row0>0.000000 -1.000000 0.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.195081 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Rotate_Y2_BlendBone</identifier><transform><row0>0.000000 -1.000000 0.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.168633 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Rotate_Y1_BlendBone</identifier><transform><row0>0.000000 -1.000000 0.000000 0.000000</row0><row1>1.000000 0.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>-0.145943 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>Root_BlendBone</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 -1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>BRS038</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>true</treatAsWorldSpaceObject><node>Root_BlendBone</node><node>Rotate_Y3_BlendBone</node><geometry><vertices>BRS038_lodShape3.vertices</vertices><primitive>BRS038_lodShape3.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Director</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/radar/68185fd6b45e7ae383c8ecdbb57901b5.mfm</mfm></material></primitiveGroup></geometry></renderSet><boundingBox><min>-0.145489 0.000000 -0.057791</min><max>0.145489 0.447264 0.070593</max></boundingBox></BRS038_Radar_Type_79_lod3.visual>
+<BRS038_Radar_Type_79_lod3.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Rotate_Y1	</identifier>
+				<transform>
+					<row0>	0.000000 1.000000 0.000000 0.000000	</row0>
+					<row1>	-1.000000 0.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.145943 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	Rotate_Y2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.022689 0.000000 0.000000 1.000000	</row3>
+					</transform>
+					<node>
+						<identifier>	Rotate_Y3	</identifier>
+						<transform>
+							<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+							<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+							<row3>	0.026449 0.000000 0.000000 1.000000	</row3>
+						</transform>
+						<node>
+							<identifier>	MP_BM459_Type_243_Outfit_ASC	</identifier>
+							<transform>
+								<row0>	0.000000 -1.000000 0.000000 0.000000	</row0>
+								<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+								<row3>	0.252183 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+						<node>
+							<identifier>	Rotate_Y3_BlendBone	</identifier>
+							<transform>
+								<row0>	0.000000 -1.000000 0.000000 0.000000	</row0>
+								<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+								<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+								<row3>	-0.195081 0.000000 0.000000 1.000000	</row3>
+							</transform>
+						</node>
+					</node>
+					<node>
+						<identifier>	Rotate_Y2_BlendBone	</identifier>
+						<transform>
+							<row0>	0.000000 -1.000000 0.000000 0.000000	</row0>
+							<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+							<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+							<row3>	-0.168633 0.000000 0.000000 1.000000	</row3>
+						</transform>
+					</node>
+				</node>
+				<node>
+					<identifier>	Rotate_Y1_BlendBone	</identifier>
+					<transform>
+						<row0>	0.000000 -1.000000 0.000000 0.000000	</row0>
+						<row1>	1.000000 0.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+						<row3>	-0.145943 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	Root_BlendBone	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 -1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+		<node>
+			<identifier>	BRS038	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	true	</treatAsWorldSpaceObject>
+		<node>	Root_BlendBone	</node>
+		<node>	Rotate_Y3_BlendBone	</node>
+		<geometry>
+			<vertices>	BRS038_lodShape3.vertices	</vertices>
+			<primitive>	BRS038_lodShape3.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/radar/BRS038_Radar_Type_79_skinned.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<boundingBox>
+		<min>	-0.145489 0.000000 -0.057791	</min>
+		<max>	0.145489 0.447264 0.070593	</max>
+	</boundingBox>
+</BRS038_Radar_Type_79_lod3.visual>

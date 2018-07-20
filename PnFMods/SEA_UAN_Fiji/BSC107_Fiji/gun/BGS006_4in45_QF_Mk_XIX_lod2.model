@@ -1,1 +1,8 @@
-<BGS006_4in45_QF_Mk_XIX_lod2.model><castsShadow>true</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_lod3</parent><extent>25.0000</extent><nodefullVisual>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_lod2</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></BGS006_4in45_QF_Mk_XIX_lod2.model>
+<BGS006_4in45_QF_Mk_XIX_lod2.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_lod3	</parent>
+	<extent>	25.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGS006_4in45_QF_Mk_XIX_lod2.model>

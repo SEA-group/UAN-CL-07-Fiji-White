@@ -1,1 +1,38 @@
-<BGS006_4in45_QF_Mk_XIX_dead_lod1.visual><boundingBox><min>-0.124459 -0.000482 -0.101679</min><max>0.130094 0.179313 0.236033</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret_dead</node><geometry><vertices>Turret_dead_lod1Shape.vertices</vertices><primitive>Turret_dead_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/72d04630adba0893ff57d9da03e91c7f.mfm</mfm></material></primitiveGroup></geometry></renderSet></BGS006_4in45_QF_Mk_XIX_dead_lod1.visual>
+<BGS006_4in45_QF_Mk_XIX_dead_lod1.visual>
+	<boundingBox>
+		<min>	-0.124459 -0.000482 -0.101679	</min>
+		<max>	0.130094 0.179313 0.236033	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_dead_lod1Shape.vertices	</vertices>
+			<primitive>	Turret_dead_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BGS006_4in45_QF_Mk_XIX_dead_lod1.visual>

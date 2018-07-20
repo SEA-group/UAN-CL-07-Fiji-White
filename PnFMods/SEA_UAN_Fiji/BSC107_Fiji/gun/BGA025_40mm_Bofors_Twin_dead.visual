@@ -1,1 +1,38 @@
-<BGA025_40mm_Bofors_Twin_dead.visual><boundingBox><min>-0.109379 -0.000000 -0.104964</min><max>0.096984 0.174525 0.150988</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>Turret_dead</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>Turret_dead</node><geometry><vertices>Turret_deadShape.vertices</vertices><primitive>Turret_deadShape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_GunDead</identifier><mfm>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/34dc7dd0581ad21989db7a6237bd4435.mfm</mfm></material></primitiveGroup></geometry></renderSet></BGA025_40mm_Bofors_Twin_dead.visual>
+<BGA025_40mm_Bofors_Twin_dead.visual>
+	<boundingBox>
+		<min>	-0.109379 -0.000000 -0.104964	</min>
+		<max>	0.096984 0.174525 0.150988	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	Turret_dead	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Turret_dead	</node>
+		<geometry>
+			<vertices>	Turret_deadShape.vertices	</vertices>
+			<primitive>	Turret_deadShape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA025_40mm_Bofors_Twin_dead.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</BGA025_40mm_Bofors_Twin_dead.visual>

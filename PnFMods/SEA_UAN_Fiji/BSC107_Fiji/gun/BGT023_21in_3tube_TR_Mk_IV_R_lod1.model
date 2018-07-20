@@ -1,1 +1,8 @@
-<BGT023_21in_3tube_TR_Mk_IV_R_lod1.model><castsShadow>true</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGT023_21in_3tube_TR_Mk_IV_R_lod2</parent><nodefullVisual>PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGT023_21in_3tube_TR_Mk_IV_R_lod1</nodefullVisual><extent>10.0000</extent><metaData>Wargaming | Lesta Studio</metaData></BGT023_21in_3tube_TR_Mk_IV_R_lod1.model>
+<BGT023_21in_3tube_TR_Mk_IV_R_lod1.model>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGT023_21in_3tube_TR_Mk_IV_R_lod2	</parent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGT023_21in_3tube_TR_Mk_IV_R_lod1	</nodefullVisual>
+	<extent>	10.0000	</extent>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGT023_21in_3tube_TR_Mk_IV_R_lod1.model>
