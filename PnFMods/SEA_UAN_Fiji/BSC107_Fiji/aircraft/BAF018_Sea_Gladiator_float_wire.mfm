@@ -1,12 +1,9 @@
-<BAF018_Sea_Gladiator_float.mfm>
-	<fx>	shaders/std_effects/PBS.fx	</fx>
-	<collisionFlags>	0	</collisionFlags>
+<BAF018_Sea_Gladiator_float_wire.mfm>
 	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAF018_Sea_Gladiator_float_mg.dds	</Texture>
-	</property>
-	<property>	ambientOcclusionMap
-		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/default_ao.dds	</Texture>
 	</property>
 	<property>	normalMap
 		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAF018_Sea_Gladiator_float_n.dds	</Texture>
@@ -14,4 +11,4 @@
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAF018_Sea_Gladiator_float_a.dds	</Texture>
 	</property>
-</BAF018_Sea_Gladiator_float.mfm>
+</BAF018_Sea_Gladiator_float_wire.mfm>

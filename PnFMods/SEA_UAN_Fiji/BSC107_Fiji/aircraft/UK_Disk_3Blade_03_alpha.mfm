@@ -3,7 +3,7 @@
 	<collisionFlags>	0	</collisionFlags>
 	<materialKind>	0	</materialKind>
 	<property>	diffuseMap
-		<Texture>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/UK_Disk_3Blade_03_alpha_a.tga	</Texture>
+		<Texture>	content/gameplay/common/textures/UK_Disk_3Blade_03_alpha_a.dds	</Texture>
 	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>

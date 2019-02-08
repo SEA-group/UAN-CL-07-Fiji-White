@@ -1,7 +1,7 @@
 <BAF018_Sea_Gladiator_float_lod2.visual>
 	<boundingBox>
-		<min>	-0.327499 -0.078153 -0.333481	</min>
-		<max>	0.327327 0.191501 0.320564	</max>
+		<min>	-0.327499 -0.007519 -0.391724	</min>
+		<max>	0.327326 0.262136 0.262321	</max>
 	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
@@ -20,21 +20,21 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	HP_gunFireFront1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.128761 0.059098 0.103706 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_gunFireFront2	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	-0.128731 0.059098 0.103706 1.000000	</row3>
+					<row3>	-0.128731 0.129733 0.045462 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_gunFireFront1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.128761 0.129733 0.045462 1.000000	</row3>
 				</transform>
 			</node>
 		</node>
