@@ -6,10 +6,10 @@
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 		</transform>
 		<node>
 			<identifier>	MidFront_ports	</identifier>
@@ -19,6 +19,78 @@
 				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
+			<node>
+				<identifier>	HP_FX_Death_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 0.7328 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.0620 1.6150 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_FloodLight_left_1	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.5640 0.7790 1.4060 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_FloodLight_right_2	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.5640 0.7790 1.4060 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_steam_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0140 1.4020 1.1280 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_left_3	</identifier>
+				<transform>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	-0.4690 0.0830 2.9210 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Flood_water_right_3	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.4690 0.0830 2.9210 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Smoke_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 1.3624 1.0586 1.0000	</row3>
+				</transform>
+			</node>
 			<node>
 				<identifier>	HP_BD_1	</identifier>
 				<transform>
@@ -413,33 +485,6 @@
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
 					<row3>	0.000000 0.945000 2.489472 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Fire_Burn_2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 2.020906 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_NoseWave_Speed	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_Smoke_1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 1.362436 1.058572 1.000000	</row3>
 				</transform>
 			</node>
 		</node>

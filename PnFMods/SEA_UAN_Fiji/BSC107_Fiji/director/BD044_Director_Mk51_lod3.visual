@@ -25,7 +25,7 @@
 			<primitive>	BD044_Director_Mk51_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/director/BD044_Director_Mk51.mfm	</mfm>
 				</material>
 			</primitiveGroup>
