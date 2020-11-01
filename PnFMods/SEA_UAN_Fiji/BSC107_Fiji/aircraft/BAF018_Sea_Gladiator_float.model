@@ -1,6 +1,6 @@
 <BAF018_Sea_Gladiator_float.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/BAF018_Sea_Gladiator_float_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/aircraft/lods/BAF018_Sea_Gladiator_float_lod1	</parent>
 	<extent>	5.0000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

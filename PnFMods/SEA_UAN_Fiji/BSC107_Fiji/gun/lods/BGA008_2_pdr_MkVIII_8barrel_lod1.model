@@ -1,0 +1,8 @@
+<BGA008_2_pdr_MkVIII_8barrel_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/lods/BGA008_2_pdr_MkVIII_8barrel_lod2	</parent>
+	<extent>	8.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/lods/BGA008_2_pdr_MkVIII_8barrel_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</BGA008_2_pdr_MkVIII_8barrel_lod1.model>

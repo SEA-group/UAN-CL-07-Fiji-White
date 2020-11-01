@@ -3,7 +3,7 @@
 	<exporter>	1.6	</exporter>
 	<extent>	2.000000	</extent>
 	<materialNames />
-	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA008_2_pdr_MkVIII_8barrel_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/lods/BGA008_2_pdr_MkVIII_8barrel_dead_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA008_2_pdr_MkVIII_8barrel_dead	</nodefullVisual>
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </BGA008_2_pdr_MkVIII_8barrel_dead.model>
