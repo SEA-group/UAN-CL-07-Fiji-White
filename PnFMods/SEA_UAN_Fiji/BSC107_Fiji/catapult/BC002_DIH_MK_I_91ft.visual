@@ -138,7 +138,7 @@
 			<primitive>	mainShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/catapult/BC002_DIH_MK_I_91ft_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -152,7 +152,7 @@
 			<primitive>	cradle_1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/catapult/BC002_DIH_MK_I_91ft_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -166,7 +166,7 @@
 			<primitive>	cradle_2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Catapult	</identifier>
+					<identifier>	SHIPMATX_PBS_Catapult	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/catapult/BC002_DIH_MK_I_91ft_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -107,7 +107,7 @@
 			<primitive>	BRS038_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/radar/BRS038_Radar_Type_79_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -110,7 +110,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGA008_2_pdr_MkVIII_8barrel.mfm	</mfm>
 				</material>
 			</primitiveGroup>

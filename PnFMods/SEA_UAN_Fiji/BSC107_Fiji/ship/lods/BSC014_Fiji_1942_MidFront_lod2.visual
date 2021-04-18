@@ -110,7 +110,7 @@
 			<primitive>	MidFront_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -124,7 +124,7 @@
 			<primitive>	SEA_Glass.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull_GlassX	</identifier>
+					<identifier>	SHIPMATX_PBS_Hull_GlassX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942_Glass.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -138,7 +138,7 @@
 			<primitive>	MidFront_crack_Bow_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -152,7 +152,7 @@
 			<primitive>	MidFront_crack_Bow_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -166,7 +166,7 @@
 			<primitive>	MidFront_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -180,7 +180,7 @@
 			<primitive>	MidFront_crack_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -194,7 +194,7 @@
 			<primitive>	MidFront_crack_MidBack_in_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<identifier>	SHIPMATX_PBS_Crack	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/C002_Razlom.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -208,7 +208,7 @@
 			<primitive>	MidFront_patch_MidBack_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -222,7 +222,7 @@
 			<primitive>	MidFront_patch_MidBack_wire_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_HullX	</identifier>
+					<identifier>	SHIPMATX_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/ship/BSC014_Fiji_1942.mfm	</mfm>
 				</material>
 			</primitiveGroup>

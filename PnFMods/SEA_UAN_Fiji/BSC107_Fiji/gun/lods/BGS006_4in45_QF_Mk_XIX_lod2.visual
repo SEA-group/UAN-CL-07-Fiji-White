@@ -149,7 +149,7 @@
 			<primitive>	Turret_lodShape2.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_UAN_Fiji/BSC107_Fiji/gun/BGS006_4in45_QF_Mk_XIX_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
