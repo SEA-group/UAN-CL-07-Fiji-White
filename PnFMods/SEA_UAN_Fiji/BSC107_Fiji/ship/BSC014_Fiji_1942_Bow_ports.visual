@@ -1,8 +1,4 @@
 <BSC014_Fiji_1942_Bow_ports.visual>
-	<boundingBox>
-		<min>	-0.066700 -0.066700 -0.066700	</min>
-		<max>	0.066700 0.066700 0.066700	</max>
-	</boundingBox>
 	<node>
 		<identifier>	Scene Root	</identifier>
 		<transform>
@@ -14,11 +10,20 @@
 		<node>
 			<identifier>	Bow_ports	</identifier>
 			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
 			</transform>
+			<node>
+				<identifier>	HP_BGM_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.4926 3.7778 1.0000	</row3>
+				</transform>
+			</node>
 			<node>
 				<identifier>	HP_FX_Death_1	</identifier>
 				<transform>
@@ -74,77 +79,108 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_BGM_1	</identifier>
+				<identifier>	HP_Ship_death_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.492590 3.777773 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_BM957_Anchor_Capstan_big	</identifier>
-				<transform>
-					<row0>	0.700000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.700000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.700000 0.000000	</row2>
-					<row3>	0.000000 0.496838 4.715276 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_BTC0378	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.405985 5.450658	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_CTC1314	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.508361 3.886896	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 3.5153 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
 				<identifier>	MP_BM862_Signal_Lamp	</identifier>
 				<transform>
-					<row0>	0.916829 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.916829 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 0.916829 0.000000	</row2>
-					<row3>	0.000000 0.928101 5.697201 1.000000	</row3>
+					<row0>	0.9168 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.9168 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.9168 0.0000	</row2>
+					<row3>	0.0000 0.9281 5.6972 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BTC0380	</identifier>
+				<identifier>	MP_BM957_Anchor_Capstan_big	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.405985 5.450658	</row3>
+					<row0>	0.7000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.7000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 0.7000 0.0000	</row2>
+					<row3>	0.0000 0.4968 4.7153 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_BTC0379	</identifier>
+				<identifier>	MP_BM959_Anchor_WW2_top	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000	</row2>
-					<row3>	0.000000 0.501389 4.578828	</row3>
+					<row0>	0.9625 -0.1576 0.2210 0.0000	</row0>
+					<row1>	0.2683 0.4281 -0.8630 0.0000	</row1>
+					<row2>	0.0414 0.8899 0.4543 0.0000	</row2>
+					<row3>	-0.1424 0.4060 5.4507 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	HP_Ship_death_1	</identifier>
+				<identifier>	MP_BM959_Anchor_WW2_top_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 3.543320 1.000000	</row3>
+					<row0>	0.9625 0.1576 -0.2210 0.0000	</row0>
+					<row1>	-0.2683 0.4281 -0.8630 0.0000	</row1>
+					<row2>	-0.0414 0.8899 0.4543 0.0000	</row2>
+					<row3>	0.1424 0.4060 5.4507 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM960_Anchor_WW2_down	</identifier>
+				<transform>
+					<row0>	0.9958 -0.0268 -0.0881 0.0000	</row0>
+					<row1>	-0.0669 0.4473 -0.8919 0.0000	</row1>
+					<row2>	0.0633 0.8940 0.4436 0.0000	</row2>
+					<row3>	-0.1424 0.4060 5.4507 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM960_Anchor_WW2_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9958 0.0268 0.0881 0.0000	</row0>
+					<row1>	0.0669 0.4473 -0.8919 0.0000	</row1>
+					<row2>	-0.0633 0.8940 0.4436 0.0000	</row2>
+					<row3>	0.1424 0.4060 5.4507 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM961_Anchor_Capstan_Cruiser_WW2_Bow	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.0860 0.5014 4.5788 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_BM961_Anchor_Capstan_Cruiser_WW2_Bow_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0860 0.5014 4.5788 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy	</identifier>
+				<transform>
+					<row0>	-0.1258 0.0000 0.9921 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9921 0.0000 -0.1258 0.0000	</row2>
+					<row3>	0.4637 0.5084 3.8869 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM104_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.1258 0.0000 -0.9921 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9921 0.0000 -0.1258 0.0000	</row2>
+					<row3>	-0.4637 0.5084 3.8869 1.0000	</row3>
 				</transform>
 			</node>
 		</node>
 	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
 </BSC014_Fiji_1942_Bow_ports.visual>
